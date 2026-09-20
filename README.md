@@ -551,33 +551,39 @@ Basic – Advanced
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6B579B&height=70&text=GITHUB%20ANALYTICS&fontSize=28&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
+<h1>📊 GITHUB ANALYTICS</h1>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PADSviduranga&theme=tokyonight&hide_border=false" width="90%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PADSviduranga&theme=tokyonight&hide_border=true&background=191B2A&ring=6C9EFF&fire=9B7EDE&currStreakNum=FFFFFF&sideNums=6C9EFF&currStreakLabel=9B7EDE&sideLabels=6C9EFF&dates=2DD4BF" width="90%"/>
 
 <br/><br/>
 
 <table>
 <tr>
-<td width="33%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PADSviduranga&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
+<td width="33%" align="center">
 
-</td>
-<td width="33%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PADSviduranga&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PADSviduranga&theme=github_dark" width="100%"/>
 
 </td>
-<td width="33%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PADSviduranga&layout=donut&theme=tokyonight&hide_border=true" width="100%"/>
+<td width="33%" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PADSviduranga&theme=github_dark" width="100%"/>
 
 </td>
+
+<td width="33%" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PADSviduranga&theme=github_dark" width="100%"/>
+
+</td>
+
 </tr>
 </table>
+
+<br/>
 
 </div>
 
@@ -585,13 +591,11 @@ Basic – Advanced
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9E8&height=70&text=CONTRIBUTION%20ACTIVITY&fontSize=28&fontColor=12343B&fontAlignY=50" width="100%"/>
+<h1>💻 CONTRIBUTION ACTIVITY</h1>
 
-<br/><br/>
+<br/>
 
-<img src="https://ghchart.rshah.org/7C3AED/PADSviduranga"
-     alt="GitHub Contribution Calendar"
-     width="100%"/>
+<img src="https://ghchart.rshah.org/7C3AED/PADSviduranga" alt="GitHub Contribution Calendar" width="100%"/>
 
 </div>
 
