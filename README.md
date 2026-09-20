@@ -7,7 +7,9 @@
 
 <h3>💻 Computer Science Undergraduate • Full-Stack Developer • Software Engineer</h3>
 
-<p><i>Building ideas into real-world solutions.</i></p>
+<p>
+Building ideas into real-world solutions.
+</p>
 
 <a href="https://github.com/PADSviduranga">
 <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github"/>
@@ -17,23 +19,23 @@
 <img src="https://img.shields.io/badge/Get%20In%20Touch-0891b2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=PADSviduranga&label=PROFILE%20VIEWS&color=0891b2&style=for-the-badge"/>
+
 </div>
 
 ---
 
-<table>
-<tr>
-<td align="center">
+<div align="center">
 
-<h2>👨‍💻 PROFILE</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0891B2&height=70&text=👨‍💻%20PROFILE&fontSize=28&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
 
-</td>
-</tr>
-</table>
+</div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Backend+%26+Enterprise+Application+Enthusiast;Exploring+Cloud%2C+DevOps+%26+Microservices;Interested+in+AI-Powered+Systems;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+%26+Enterprise+Application+Enthusiast;Exploring+Cloud%2C+DevOps+%26+Microservices;Interested+in+AI-Powered+Systems;Always+Learning+Something+New"/>
 
 </div>
 
@@ -45,28 +47,39 @@
 
 <h2>💻</h2>
 
-<b>DEVELOPER</b>
+<h3>DEVELOPER</h3>
+
+<p>Building Applications</p>
 
 </td>
+
 <td align="center" width="25%">
 
 <h2>⚙️</h2>
 
-<b>PROBLEM SOLVER</b>
+<h3>PROBLEM SOLVER</h3>
+
+<p>Solving Challenges</p>
 
 </td>
+
 <td align="center" width="25%">
 
 <h2>☁️</h2>
 
-<b>CLOUD ENTHUSIAST</b>
+<h3>CLOUD ENTHUSIAST</h3>
+
+<p>Exploring Cloud</p>
 
 </td>
+
 <td align="center" width="25%">
 
 <h2>🤖</h2>
 
-<b>AI EXPLORER</b>
+<h3>AI EXPLORER</h3>
+
+<p>AI-Powered Systems</p>
 
 </td>
 </tr>
@@ -74,21 +87,17 @@
 
 ---
 
-<table>
-<tr>
-<td align="center" bgcolor="#0891b2">
+<div align="center">
 
-<h2>🚀 ABOUT ME</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9E8&height=70&text=🚀%20ABOUT%20ME&fontSize=28&fontColor=12343B&fontAlignY=50" width="100%"/>
 
-</td>
-</tr>
-</table>
+</div>
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-<h3>👨‍💻 Who Am I?</h3>
+<h2>👨‍💻 Who Am I?</h2>
 
 I'm a Computer Science undergraduate passionate about building practical and scalable software solutions.
 
@@ -96,11 +105,17 @@ I enjoy developing full-stack applications, designing backend systems, and explo
 
 Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered software systems.
 
+<br/>
+
+<p>
+💡 <b>My Goal:</b> Keep learning, build meaningful projects, and grow as a software engineer.
+</p>
+
 </td>
 
 <td width="45%" valign="top">
 
-<h3>💡 Interests</h3>
+<h2>💡 Interests</h2>
 
 🎓 Computer Science Undergraduate
 
@@ -120,17 +135,13 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 ---
 
-<table>
-<tr>
-<td align="center" bgcolor="#0891b2">
+<div align="center">
 
-<h2>🛠️ TECH STACK</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0891B2&height=70&text=🛠️%20TECH%20STACK&fontSize=28&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
 
-</td>
-</tr>
-</table>
+</div>
 
-<h3>Tech Stack:</h3>
+<h2>Tech Stack:</h2>
 
 <div align="center">
 
@@ -147,22 +158,32 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <br/>
 
-<table>
-<tr>
-<td align="center" bgcolor="#00d9e8">
+<div align="center">
 
-<h2>SKILLS INDEX</h2>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-</td>
-</tr>
-</table>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9E8&height=70&text=SKILLS%20INDEX&fontSize=28&fontColor=12343B&fontAlignY=50" width="100%"/>
+
+</div>
 
 <table>
 <tr>
 
 <td align="center" width="25%">
 
-<h3>Languages</h3>
+<h2>Languages</h2>
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,php,html,css" />
 
@@ -170,7 +191,9 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <td align="center" width="25%">
 
-<h3>Frameworks</h3>
+<h2>Frameworks</h2>
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,dotnet,flutter" />
 
@@ -178,7 +201,9 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <td align="center" width="25%">
 
-<h3>Databases</h3>
+<h2>Databases</h2>
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
 
@@ -186,7 +211,9 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <td align="center" width="25%">
 
-<h3>Tools & Cloud</h3>
+<h2>Tools & Cloud</h2>
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,vercel" />
 
@@ -197,15 +224,11 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 ---
 
-<table>
-<tr>
-<td align="center" bgcolor="#a900ff">
+<div align="center">
 
-<h2>ACHIEVEMENTS</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=A900FF&height=70&text=ACHIEVEMENTS&fontSize=28&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
 
-</td>
-</tr>
-</table>
+</div>
 
 <div align="center">
 
@@ -222,15 +245,11 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 ---
 
-<table>
-<tr>
-<td align="center" bgcolor="#00d9e8">
+<div align="center">
 
-<h2>PROJECTS GALLERY</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9E8&height=70&text=PROJECTS%20GALLERY&fontSize=28&fontColor=12343B&fontAlignY=50" width="100%"/>
 
-</td>
-</tr>
-</table>
+</div>
 
 <table>
 <tr>
@@ -239,17 +258,17 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <div align="center">
 
-<h3>🏢 ApexHire</h3>
+<h2>🏢 ApexHire</h2>
 
 <img src="YOUR_APEXHIRE_IMAGE_URL" width="100%"/>
 
-</div>
-
-<p align="center">
-<i>Modern recruitment platform built with React and ASP.NET Core.</i>
+<p>
+<b>Full-Stack Recruitment Platform</b>
 </p>
 
-<div align="center">
+<p>
+Modern recruitment platform built with React and ASP.NET Core.
+</p>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
@@ -257,7 +276,9 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <br/><br/>
 
-<a href="YOUR_APEXHIRE_REPOSITORY_URL">🌐 GitHub →</a>
+<a href="YOUR_APEXHIRE_REPOSITORY_URL">
+🌐 GitHub →
+</a>
 
 </div>
 
@@ -267,17 +288,17 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <div align="center">
 
-<h3>🚨 ResQGrid</h3>
+<h2>🚨 ResQGrid</h2>
 
 <img src="YOUR_RESQGRID_IMAGE_URL" width="100%"/>
 
-</div>
-
-<p align="center">
-<i>Disaster Logistics & Resource Optimization System.</i>
+<p>
+<b>Disaster Logistics & Resource Optimization</b>
 </p>
 
-<div align="center">
+<p>
+A disaster logistics and resource optimization system.
+</p>
 
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -285,7 +306,9 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <br/><br/>
 
-<a href="YOUR_RESQGRID_REPOSITORY_URL">🌐 GitHub →</a>
+<a href="YOUR_RESQGRID_REPOSITORY_URL">
+🌐 GitHub →
+</a>
 
 </div>
 
@@ -299,17 +322,17 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <div align="center">
 
-<h3>🎵 SonicFlow</h3>
+<h2>🎵 SonicFlow</h2>
 
 <img src="YOUR_SONICFLOW_IMAGE_URL" width="100%"/>
 
-</div>
-
-<p align="center">
-<i>Modern music player with online playback using React and Vite.</i>
+<p>
+<b>Online Music Player</b>
 </p>
 
-<div align="center">
+<p>
+Modern music player built with React, Vite, and the HTML5 Audio API.
+</p>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
@@ -317,7 +340,9 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <br/><br/>
 
-<a href="YOUR_SONICFLOW_REPOSITORY_URL">🌐 GitHub →</a>
+<a href="YOUR_SONICFLOW_REPOSITORY_URL">
+🌐 GitHub →
+</a>
 
 </div>
 
@@ -327,24 +352,26 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <div align="center">
 
-<h3>🛡️ FraudShield</h3>
+<h2>🛡️ FraudShield</h2>
 
 <img src="YOUR_FRAUDSHIELD_IMAGE_URL" width="100%"/>
 
-</div>
-
-<p align="center">
-<i>Financial fraud detection and investigation system.</i>
+<p>
+<b>Financial Fraud Detection System</b>
 </p>
 
-<div align="center">
+<p>
+PHP-based fraud detection and investigation system with risk scoring and alert management.
+</p>
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
 <br/><br/>
 
-<a href="YOUR_FRAUDSHIELD_REPOSITORY_URL">🌐 GitHub →</a>
+<a href="YOUR_FRAUDSHIELD_REPOSITORY_URL">
+🌐 GitHub →
+</a>
 
 </div>
 
@@ -355,26 +382,88 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 ---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9E8&height=70&text=MORE%20PROJECTS&fontSize=28&fontColor=12343B&fontAlignY=50" width="100%"/>
+
+</div>
+
 <table>
 <tr>
 
-<td align="center" bgcolor="#dc2626" width="50%">
+<td width="50%" valign="top">
 
-<h2>🎓 ACADEMIC BACKGROUND</h2>
+<div align="center">
+
+<h2>🎮 CodeQuest</h2>
+
+<p>
+<b>Interactive Coding Puzzle Game</b>
+</p>
+
+<p>
+Flutter and Dart mobile game project with coding challenges and interactive gameplay.
+</p>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+
+<br/><br/>
+
+<a href="YOUR_CODEQUEST_REPOSITORY_URL">
+🌐 GitHub →
+</a>
+
+</div>
 
 </td>
 
-<td align="center" bgcolor="#e9b5d2" width="50%">
+<td width="50%" valign="top">
 
-<h2>🏆 CERTIFICATIONS</h2>
+<div align="center">
+
+<h2>🔐 PixelProof AI</h2>
+
+<p>
+<b>AI-Powered Image Analysis</b>
+</p>
+
+<p>
+Full-stack project combining React and ASP.NET Core.
+</p>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+
+<br/><br/>
+
+<a href="YOUR_PIXELPROOF_REPOSITORY_URL">
+🌐 GitHub →
+</a>
+
+</div>
 
 </td>
 
 </tr>
+</table>
 
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=DC2626&height=70&text=🎓%20ACADEMIC%20BACKGROUND&fontSize=24&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
+
+</div>
+
+<table>
 <tr>
+<td width="50%" valign="top">
 
-<td valign="top">
+<h2>🎓 Education</h2>
+
+<img src="YOUR_NSbm_IMAGE_URL" width="100%"/>
 
 <h3>BSc (Hons) Computer Science</h3>
 
@@ -400,9 +489,15 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 </td>
 
-<td valign="top">
+<td width="50%" valign="top">
 
-<h3>⚡ C++ Essentials (Basic - Advanced)</h3>
+<h2>🏆 Certifications</h2>
+
+<img src="YOUR_CERTIFICATION_IMAGE_URL" width="100%"/>
+
+<h3>⚡ C++ Essentials</h3>
+
+Basic – Advanced
 
 📍 Cisco Networking Academy
 
@@ -419,22 +514,16 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 📍 ESOFT Metro Campus
 
 </td>
-
 </tr>
-
 </table>
 
 ---
 
-<table>
-<tr>
-<td align="center" bgcolor="#6b579b">
+<div align="center">
 
-<h2>GITHUB ANALYTICS</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6B579B&height=70&text=GITHUB%20ANALYTICS&fontSize=28&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
 
-</td>
-</tr>
-</table>
+</div>
 
 <div align="center">
 
@@ -446,23 +535,15 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <img src="https://streak-stats.demolab.com?user=PADSviduranga&theme=tokyonight&hide_border=true" width="70%"/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PADSviduranga&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
 </div>
 
 ---
 
-<table>
-<tr>
-<td align="center" bgcolor="#00d9e8">
+<div align="center">
 
-<h2>CONTRIBUTION ACTIVITY</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9E8&height=70&text=CONTRIBUTION%20ACTIVITY&fontSize=28&fontColor=12343B&fontAlignY=50" width="100%"/>
 
-</td>
-</tr>
-</table>
+</div>
 
 <div align="center">
 
@@ -475,6 +556,10 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 <div align="center">
 
 <h2>💙 Code Today. Build Tomorrow.</h2>
+
+<p>
+<i>Always learning. Always building.</i>
+</p>
 
 <a href="https://github.com/PADSviduranga">
 
