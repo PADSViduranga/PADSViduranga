@@ -589,7 +589,9 @@ Basic – Advanced
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/0891b2/PADSviduranga" alt="GitHub Contribution Calendar" width="100%"/>
+<img src="https://ghchart.rshah.org/7C3AED/PADSviduranga"
+     alt="GitHub Contribution Calendar"
+     width="100%"/>
 
 </div>
 
