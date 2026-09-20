@@ -525,17 +525,25 @@ Basic – Advanced
 
 </div>
 
+<br/>
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=PADSviduranga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PADSviduranga&layout=compact&theme=tokyonight&hide_border=true" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PADSviduranga&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="42%"/>
 
-<br/><br/>
+</div>
+
+<br/>
+
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=PADSviduranga&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
+
+<br/>
 
 ---
 
@@ -545,32 +553,36 @@ Basic – Advanced
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PADSviduranga&bg_color=0D1117&color=38BDF8&line=2563EB&point=7C3AED&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PADSviduranga&bg_color=0D1117&color=38BDF8&line=2563EB&point=7C3AED&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
 
 </div>
 
----
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PADSviduranga&theme=tokyonight" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PADSviduranga&show=reviews,discussions_started,discussions_answered,prs_merged&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
+<br/>
 
 <div align="center">
 
 <h2>💙 Code Today. Build Tomorrow.</h2>
 
-<p>
-<i>Always learning. Always building.</i>
-</p>
-
-<a href="https://github.com/PADSviduranga">
-
-<img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=PADSviduranga&label=Profile%20Views&color=0891b2&style=flat"/>
+<p><i>Always learning. Always building.</i></p>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:2563eb,100:7c3aed&height=120&section=footer" width="100%"/>
