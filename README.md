@@ -548,34 +548,41 @@ Basic – Advanced
 ---
 
 
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6B579B&height=70&text=GITHUB%20ANALYTICS&fontSize=28&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
 
-<br/><br/>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PADSviduranga&theme=tokyonight&hide_border=false&border=30363D&background=0D1117&stroke=30363D&ring=6C9EFF&fire=9B7EDE&currStreakNum=FFFFFF&sideNums=6C9EFF&currStreakLabel=9B7EDE&sideLabels=6C9EFF&dates=2DD4BF" width="90%"/>
+<br/>
 
-<br/><br/>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.demolab.com/?user=PADSviduranga&theme=tokyonight&hide_border=false&border=30363D&background=0D1117&stroke=30363D&ring=6C9EFF&fire=9B7EDE&currStreakNum=FFFFFF&sideNums=6C9EFF&currStreakLabel=9B7EDE&sideLabels=6C9EFF&dates=2DD4BF" width="90%"/>
+
+</div>
+
+<br/>
 
 <table>
 <tr>
 
 <td width="33%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PADSviduranga&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PADSviduranga&theme=github_dark" width="100%"/>
 
 </td>
 
 <td width="33%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PADSviduranga&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PADSviduranga&theme=github_dark" width="100%"/>
 
 </td>
 
 <td width="33%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PADSviduranga&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PADSviduranga&theme=github_dark" width="100%"/>
 
 </td>
 
@@ -584,11 +591,13 @@ Basic – Advanced
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PADSviduranga&theme=tokyonight" width="100%"/>
+<div align="center">
 
-<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PADSviduranga&theme=github_dark" width="100%"/>
 
 </div>
+
+<br/>
 
 <hr/>
 
@@ -596,11 +605,17 @@ Basic – Advanced
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00D9E8&height=70&text=CONTRIBUTION%20ACTIVITY&fontSize=28&fontColor=12343B&fontAlignY=50" width="100%"/>
 
-<br/><br/>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PADSviduranga&bg_color=0D1117&color=38BDF8&line=2563EB&point=7C3AED&area=true&hide_border=true" width="100%"/>
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PADSviduranga&theme=github_dark" width="100%"/>
 
 </div>
+
+<br/>
 
 <hr/>
 
@@ -608,6 +623,8 @@ Basic – Advanced
 
 <h2>💙 Code Today. Build Tomorrow.</h2>
 
+<p>
 <i>Always learning. Always building.</i>
+</p>
 
 </div>
