@@ -1,48 +1,55 @@
 
-<div align="center">
+<section id="header" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:2563eb,100:7c3aed&height=180&section=header&text=SACHINTHA%20VIDURANGA&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%7C%20Full-Stack%20Developer&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:2563EB,100:7C3AED&height=230&section=header&text=SACHINTHA%20VIDURANGA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Backend+%26+Enterprise+Application+Enthusiast;Building+Practical+Software+Solutions;Exploring+Cloud%2C+DevOps+%26+AI;Always+Learning+Something+New" alt="Typing SVG"/>
+
+<br/><br/>
 
 <h1>👋 Hi, I'm Sachintha Viduranga</h1>
 
 <h3>💻 Computer Science Undergraduate • Full-Stack Developer • Software Engineer</h3>
 
-<p>
-Building ideas into real-world solutions.
-</p>
+<p>Building ideas into real-world solutions.</p>
+
+<br/>
 
 <a href="https://github.com/PADSviduranga">
-<img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
+&nbsp;
 <a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Get%20In%20Touch-0891b2?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GET%20IN%20TOUCH-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in Touch"/>
+</a>
+&nbsp;
+<a href="https://github.com/PADSviduranga?tab=repositories">
+<img src="https://img.shields.io/badge/PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=PADSviduranga&label=PROFILE%20VIEWS&color=0891b2&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=PADSviduranga&label=PROFILE%20VIEWS&color=0891B2&style=for-the-badge" alt="Profile Views"/>
 
-</div>
+</section>
 
 ---
 
-<div align="center">
+<section id="profile" align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0891B2&height=70&text=👨‍💻%20PROFILE&fontSize=28&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+%26+Enterprise+Application+Enthusiast;Exploring+Cloud%2C+DevOps+%26+Microservices;Interested+in+AI-Powered+Systems;Always+Learning+Something+New"/>
-
-</div>
+<h2>🚀 Always Learning Something New</h2>
 
 <br/>
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
 <h2>💻</h2>
@@ -82,33 +89,43 @@ Building ideas into real-world solutions.
 <p>AI-Powered Systems</p>
 
 </td>
+
 </tr>
 </table>
 
+</section>
+
 ---
 
-<div align="center">
+<section id="about" align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00D9E8&height=70&text=🚀%20ABOUT%20ME&fontSize=28&fontColor=12343B&fontAlignY=50" width="100%"/>
 
-</div>
+<br/><br/>
 
 <table>
 <tr>
+
 <td width="55%" valign="top">
 
 <h2>👨‍💻 Who Am I?</h2>
 
+<p align="left">
 I'm a Computer Science undergraduate passionate about building practical and scalable software solutions.
+</p>
 
+<p align="left">
 I enjoy developing full-stack applications, designing backend systems, and exploring modern technologies.
+</p>
 
+<p align="left">
 Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered software systems.
+</p>
 
-<br/>
+<h3 align="left">💡 My Goal</h3>
 
-<p>
-💡 <b>My Goal:</b> Keep learning, build meaningful projects, and grow as a software engineer.
+<p align="left">
+Keep learning, build meaningful projects, and grow as a software engineer.
 </p>
 
 </td>
@@ -117,64 +134,184 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <h2>💡 Interests</h2>
 
+<p align="left">
 🎓 Computer Science Undergraduate
+</p>
 
-💻 Full-Stack Developer
+<p align="left">
+💻 Full-Stack Development
+</p>
 
+<p align="left">
 ⚙️ Backend & Enterprise Applications
+</p>
 
+<p align="left">
 ☁️ Cloud, DevOps & Microservices
+</p>
 
+<p align="left">
 🤖 AI-Powered Software Systems
+</p>
 
+<p align="left">
 🌍 Sri Lanka
+</p>
 
 </td>
+
 </tr>
 </table>
 
+</section>
+
 ---
 
-<div align="center">
+<section id="tech-stack" align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0891B2&height=70&text=🛠️%20TECH%20STACK&fontSize=28&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
 
-</div>
+<br/><br/>
 
-<h2>Tech Stack:</h2>
+<h2>Languages & Frameworks</h2>
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,react,python,cs,dotnet,php,js,html,css&perline=10" alt="Languages and Frameworks"/>
 
-<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-00C7D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Enterprise%20IT-800080?style=for-the-badge"/>
+<br/><br/>
 
-</div>
+<h2>Databases, Tools & Cloud</h2>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,git,github,vscode,docker,aws,flutter&perline=10" alt="Databases, Tools and Cloud"/>
+
+<br/><br/>
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<h3>💻 Languages</h3>
+
+Java • C# • Python
 
 <br/>
 
-<div align="center">
+JavaScript • PHP
 
-<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<br/>
 
-</div>
+HTML • CSS • Dart
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>⚡ Frameworks</h3>
+
+Spring Boot
+
+<br/>
+
+React • Vite
+
+<br/>
+
+ASP.NET Core
+
+<br/>
+
+Flutter
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>🗄️ Databases</h3>
+
+MySQL
+
+<br/>
+
+SQL Server
+
+<br/>
+
+PostgreSQL
+
+<br/>
+
+MongoDB • Firebase
+
+</td>
+
+</tr>
+</table>
+
+</section>
 
 ---
 
-<div align="center">
+<section id="currently-exploring" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=70&text=🔭%20CURRENTLY%20EXPLORING&fontSize=25&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
+
+<br/><br/>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+<h2>☁️</h2>
+
+<h3>Cloud Computing</h3>
+
+<p>Exploring cloud platforms and deployment.</p>
+
+</td>
+
+<td align="center" width="25%">
+
+<h2>⚙️</h2>
+
+<h3>DevOps</h3>
+
+<p>Learning CI/CD and containerization.</p>
+
+</td>
+
+<td align="center" width="25%">
+
+<h2>🔗</h2>
+
+<h3>Microservices</h3>
+
+<p>Understanding distributed applications.</p>
+
+</td>
+
+<td align="center" width="25%">
+
+<h2>🤖</h2>
+
+<h3>Artificial Intelligence</h3>
+
+<p>Exploring AI-powered solutions.</p>
+
+</td>
+
+</tr>
+</table>
+
+</section>
+
+---
+
+<section id="skills-index" align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00D9E8&height=70&text=SKILLS%20INDEX&fontSize=28&fontColor=12343B&fontAlignY=50" width="100%"/>
 
-</div>
+<br/><br/>
 
 <table>
 <tr>
@@ -183,9 +320,7 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <h2>Languages</h2>
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,php,html,css" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,php,html,css&perline=4" alt="Programming Languages"/>
 
 </td>
 
@@ -193,9 +328,7 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <h2>Frameworks</h2>
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,dotnet,flutter" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,dotnet,flutter&perline=3" alt="Frameworks"/>
 
 </td>
 
@@ -203,9 +336,7 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <h2>Databases</h2>
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase&perline=2" alt="Databases"/>
 
 </td>
 
@@ -213,91 +344,57 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <h2>Tools & Cloud</h2>
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,vercel&perline=3" alt="Tools and Cloud"/>
 
 </td>
 
 </tr>
 </table>
 
+</section>
+
 ---
 
-<div align="center">
+<section id="projects" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=A900FF&height=70&text=ACHIEVEMENTS&fontSize=28&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PADSviduranga&theme=darkhub&no-frame=true&no-bg=true&column=6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9E8&height=70&text=🌟%20PROJECTS%20GALLERY&fontSize=28&fontColor=12343B&fontAlignY=50" width="100%"/>
 
 <br/><br/>
-
-<img src="https://img.shields.io/badge/🏅_EXCELLENCE-555555?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MULTI_STACK-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🏆_LEADERBOARD-555555?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TOP_CONTRIBUTOR-FFD700?style=for-the-badge&logoColor=black"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9E8&height=70&text=PROJECTS%20GALLERY&fontSize=28&fontColor=12343B&fontAlignY=50" width="100%"/>
-
-</div>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<div align="center">
-
 <h2>🏢 ApexHire</h2>
 
-<img src="YOUR_APEXHIRE_IMAGE_URL" width="100%"/>
+<h3>Full-Stack Recruitment Platform</h3>
 
 <p>
-<b>Full-Stack Recruitment Platform</b>
-</p>
-
-<p>
-Modern recruitment platform built with React and ASP.NET Core.
+A recruitment platform built with React and ASP.NET Core.
 </p>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL%20Server-4479A1?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 
 <br/><br/>
 
-<a href="YOUR_APEXHIRE_REPOSITORY_URL">
+<a href="https://github.com/PADSviduranga/ApexHire">
 🌐 GitHub →
 </a>
-
-</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-<div align="center">
-
 <h2>🚨 ResQGrid</h2>
 
-<img src="YOUR_RESQGRID_IMAGE_URL" width="100%"/>
+<h3>Disaster Logistics & Resource Optimization</h3>
 
 <p>
-<b>Disaster Logistics & Resource Optimization</b>
-</p>
-
-<p>
-A disaster logistics and resource optimization system.
+A system focused on disaster logistics, resource management, and optimized distribution.
 </p>
 
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
@@ -306,11 +403,9 @@ A disaster logistics and resource optimization system.
 
 <br/><br/>
 
-<a href="YOUR_RESQGRID_REPOSITORY_URL">
+<a href="https://github.com/PADSviduranga">
 🌐 GitHub →
 </a>
-
-</div>
 
 </td>
 
@@ -320,18 +415,12 @@ A disaster logistics and resource optimization system.
 
 <td width="50%" valign="top">
 
-<div align="center">
-
 <h2>🎵 SonicFlow</h2>
 
-<img src="YOUR_SONICFLOW_IMAGE_URL" width="100%"/>
+<h3>Online Music Player</h3>
 
 <p>
-<b>Online Music Player</b>
-</p>
-
-<p>
-Modern music player built with React, Vite, and the HTML5 Audio API.
+A music player interface built with React, Vite, and the HTML5 Audio API.
 </p>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -340,28 +429,20 @@ Modern music player built with React, Vite, and the HTML5 Audio API.
 
 <br/><br/>
 
-<a href="YOUR_SONICFLOW_REPOSITORY_URL">
+<a href="https://github.com/PADSviduranga">
 🌐 GitHub →
 </a>
-
-</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-<div align="center">
-
 <h2>🛡️ FraudShield</h2>
 
-<img src="YOUR_FRAUDSHIELD_IMAGE_URL" width="100%"/>
+<h3>Financial Fraud Detection System</h3>
 
 <p>
-<b>Financial Fraud Detection System</b>
-</p>
-
-<p>
-PHP-based fraud detection and investigation system with risk scoring and alert management.
+A PHP-based fraud detection and investigation system with rule-based risk scoring, suspicious transaction detection, and reporting.
 </p>
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
@@ -369,40 +450,24 @@ PHP-based fraud detection and investigation system with risk scoring and alert m
 
 <br/><br/>
 
-<a href="YOUR_FRAUDSHIELD_REPOSITORY_URL">
+<a href="https://github.com/PADSviduranga">
 🌐 GitHub →
 </a>
-
-</div>
 
 </td>
 
 </tr>
-</table>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9E8&height=70&text=MORE%20PROJECTS&fontSize=28&fontColor=12343B&fontAlignY=50" width="100%"/>
-
-</div>
-
-<table>
 <tr>
 
 <td width="50%" valign="top">
 
-<div align="center">
-
 <h2>🎮 CodeQuest</h2>
 
-<p>
-<b>Interactive Coding Puzzle Game</b>
-</p>
+<h3>Interactive Coding Puzzle Game</h3>
 
 <p>
-Flutter and Dart mobile game project with coding challenges and interactive gameplay.
+A coding puzzle game designed around interactive challenges and gameplay.
 </p>
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
@@ -411,26 +476,20 @@ Flutter and Dart mobile game project with coding challenges and interactive game
 
 <br/><br/>
 
-<a href="YOUR_CODEQUEST_REPOSITORY_URL">
+<a href="https://github.com/PADSviduranga">
 🌐 GitHub →
 </a>
-
-</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-<div align="center">
-
 <h2>🔐 PixelProof AI</h2>
 
-<p>
-<b>AI-Powered Image Analysis</b>
-</p>
+<h3>AI-Powered Image Analysis</h3>
 
 <p>
-Full-stack project combining React and ASP.NET Core.
+A full-stack project combining React and ASP.NET Core for AI-related image analysis.
 </p>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -438,32 +497,37 @@ Full-stack project combining React and ASP.NET Core.
 
 <br/><br/>
 
-<a href="YOUR_PIXELPROOF_REPOSITORY_URL">
+<a href="https://github.com/PADSviduranga">
 🌐 GitHub →
 </a>
-
-</div>
 
 </td>
 
 </tr>
 </table>
 
+<br/>
+
+<a href="https://github.com/PADSviduranga?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
+</a>
+
+</section>
+
 ---
 
-<div align="center">
+<section id="education" align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=DC2626&height=70&text=🎓%20ACADEMIC%20BACKGROUND&fontSize=24&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
 
-</div>
+<br/><br/>
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 <h2>🎓 Education</h2>
-
-<img src="YOUR_NSbm_IMAGE_URL" width="100%"/>
 
 <h3>BSc (Hons) Computer Science</h3>
 
@@ -493,8 +557,6 @@ Full-stack project combining React and ASP.NET Core.
 
 <h2>🏆 Certifications</h2>
 
-<img src="YOUR_CERTIFICATION_IMAGE_URL" width="100%"/>
-
 <h3>⚡ C++ Essentials</h3>
 
 Basic – Advanced
@@ -514,97 +576,120 @@ Basic – Advanced
 📍 ESOFT Metro Campus
 
 </td>
+
 </tr>
 </table>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6B579B&height=70&text=GITHUB%20ANALYTICS&fontSize=28&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PADSviduranga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PADSviduranga&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="42%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=PADSviduranga&theme=tokyonight&hide_border=true" width="70%"/>
-
-</div>
-
-<br/>
+</section>
 
 ---
 
+<section id="achievements" align="center">
 
-
-<div align="center">
-
-<h1>📊 GITHUB ANALYTICS</h1>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PADSviduranga&theme=tokyonight&hide_border=true&background=191B2A&ring=6C9EFF&fire=9B7EDE&currStreakNum=FFFFFF&sideNums=6C9EFF&currStreakLabel=9B7EDE&sideLabels=6C9EFF&dates=2DD4BF" width="90%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=A900FF&height=70&text=🏆%20ACHIEVEMENTS&fontSize=28&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
 
 <br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=PADSviduranga&theme=darkhub&no-frame=true&no-bg=true&column=6" width="100%" alt="GitHub Achievements"/>
+
+</section>
+
+---
+
+<section id="github-analytics" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6B579B&height=70&text=📊%20GITHUB%20ANALYTICS&fontSize=28&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
+
+<br/><br/>
+
+<h2>GitHub Statistics</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=PADSviduranga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PADSviduranga&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="42%" alt="Top Languages"/>
+
+<br/><br/>
+
+<h2>🔥 GitHub Streak</h2>
+
+<img src="https://streak-stats.demolab.com?user=PADSviduranga&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<h2>📈 Language Analytics</h2>
 
 <table>
 <tr>
 
 <td width="33%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PADSviduranga&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PADSviduranga&theme=github_dark" width="100%" alt="GitHub Stats Summary"/>
 
 </td>
 
 <td width="33%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PADSviduranga&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PADSviduranga&theme=github_dark" width="100%" alt="Top Languages by Commit"/>
 
 </td>
 
 <td width="33%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PADSviduranga&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PADSviduranga&theme=github_dark" width="100%" alt="Top Languages by Repository"/>
 
 </td>
 
 </tr>
 </table>
 
-<br/>
+</section>
 
-</div>
+---
 
-<hr/>
+<section id="contribution-activity" align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9E8&height=70&text=💻%20CONTRIBUTION%20ACTIVITY&fontSize=28&fontColor=12343B&fontAlignY=50" width="100%"/>
 
-<h1>💻 CONTRIBUTION ACTIVITY</h1>
+<br/><br/>
 
-<br/>
+<h2>Contribution Calendar</h2>
 
 <img src="https://ghchart.rshah.org/7C3AED/PADSviduranga" alt="GitHub Contribution Calendar" width="100%"/>
 
-</div>
+<br/><br/>
 
-<hr/>
+<h3>💜 Keep Building. Keep Growing.</h3>
 
-<div align="center">
+</section>
+
+---
+
+<section id="connect" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0891B2&height=70&text=🤝%20LET'S%20CONNECT&fontSize=28&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
+
+<br/><br/>
 
 <h2>💙 Code Today. Build Tomorrow.</h2>
 
-<i>Always learning. Always building.</i>
+<p><i>Always learning. Always building.</i></p>
 
-</div>
+<br/>
+
+<a href="https://github.com/PADSviduranga">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<p>⭐ Thanks for visiting my profile!</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:2563EB,100:7C3AED&height=120&section=footer" width="100%"/>
+
+</section>
