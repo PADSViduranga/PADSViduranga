@@ -1,99 +1,245 @@
 
-<section id="header" align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:2563EB,100:7C3AED&height=230&section=header&text=SACHINTHA%20VIDURANGA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:2563eb,100:7c3aed&height=220&section=header&text=SACHINTHA%20VIDURANGA&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20Undergraduate%20%7C%20Full-Stack%20Developer&descSize=16&descAlignY=62&descColor=ffffff" width="100%"/>
 
-<br/>
+  <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Backend+%26+Enterprise+Application+Enthusiast;Building+Practical+Software+Solutions;Exploring+Cloud%2C+DevOps+%26+AI;Always+Learning+Something+New" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+%26+Enterprise+Application+Enthusiast;Full-Stack+Developer;Always+Learning+Something+New;Building+Ideas+Into+Real-World+Solutions" alt="Typing SVG"/>
 
-<br/><br/>
-
-<h1>👋 Hi, I'm Sachintha Viduranga</h1>
-
-<h3>💻 Computer Science Undergraduate • Full-Stack Developer • Software Engineer</h3>
-
-<p>Building ideas into real-world solutions.</p>
+</div>
 
 <br/>
 
-<a href="https://github.com/PADSviduranga">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/GET%20IN%20TOUCH-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in Touch"/>
-</a>
-&nbsp;
-<a href="https://github.com/PADSviduranga?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
-</a>
+<section id="introduction">
 
-<br/><br/>
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=PADSviduranga&label=PROFILE%20VIEWS&color=0891B2&style=for-the-badge" alt="Profile Views"/>
+  <h1>👋 Hi, I'm <span style="color:#38BDF8">Sachintha Viduranga</span></h1>
+
+  <p>
+    <strong>💻 Computer Science Undergraduate</strong>
+    &nbsp; • &nbsp;
+    <strong>⚡ Full-Stack Developer</strong>
+    &nbsp; • &nbsp;
+    <strong>⚙️ Software Engineer</strong>
+  </p>
+
+  <p>
+    Building ideas into real-world solutions.
+    <br/>
+    Passionate about backend systems, enterprise applications,
+    and exploring modern technologies.
+  </p>
+
+  <br/>
+
+  <a href="https://github.com/PADSviduranga">
+    <img src="https://img.shields.io/badge/GITHUB-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/GET%20IN%20TOUCH-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/>
+  </a>
+  &nbsp;
+  <a href="#projects">
+    <img src="https://img.shields.io/badge/PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+  </a>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=PADSviduranga&label=PROFILE%20VIEWS&color=0891b2&style=for-the-badge" alt="Profile Views"/>
+
+</div>
 
 </section>
+
+<br/>
 
 ---
 
-<section id="profile" align="center">
+<section id="profile">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0891B2&height=70&text=👨‍💻%20PROFILE&fontSize=28&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
+<div align="center">
 
-<br/><br/>
+  <h2>👨‍💻 PROFILE</h2>
 
-<h2>🚀 Always Learning Something New</h2>
+  <br/>
+
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🎓 EDUCATION</h3>
+        <p>Computer Science Undergraduate</p>
+      </td>
+      <td align="center" width="50%">
+        <h3>💻 DEVELOPMENT</h3>
+        <p>Full-Stack Application Development</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3>⚙️ INTERESTS</h3>
+        <p>Backend & Enterprise Applications</p>
+      </td>
+      <td align="center">
+        <h3>🚀 EXPLORING</h3>
+        <p>Cloud, DevOps & Microservices</p>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+</section>
 
 <br/>
 
-<table>
-<tr>
+---
 
-<td align="center" width="25%">
+<section id="highlights">
 
-<h2>💻</h2>
+<div align="center">
 
-<h3>DEVELOPER</h3>
+  <h2>✨ WHAT I DO</h2>
 
-<p>Building Applications</p>
+  <br/>
 
-</td>
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <h3>💻</h3>
+        <strong>DEVELOPER</strong>
+        <br/><br/>
+        <sub>Building practical applications</sub>
+      </td>
+      <td align="center" width="25%">
+        <h3>⚙️</h3>
+        <strong>PROBLEM SOLVER</strong>
+        <br/><br/>
+        <sub>Learning through challenges</sub>
+      </td>
+      <td align="center" width="25%">
+        <h3>☁️</h3>
+        <strong>CLOUD EXPLORER</strong>
+        <br/><br/>
+        <sub>Exploring modern infrastructure</sub>
+      </td>
+      <td align="center" width="25%">
+        <h3>🤖</h3>
+        <strong>AI EXPLORER</strong>
+        <br/><br/>
+        <sub>Interested in AI-powered systems</sub>
+      </td>
+    </tr>
+  </table>
 
-<td align="center" width="25%">
-
-<h2>⚙️</h2>
-
-<h3>PROBLEM SOLVER</h3>
-
-<p>Solving Challenges</p>
-
-</td>
-
-<td align="center" width="25%">
-
-<h2>☁️</h2>
-
-<h3>CLOUD ENTHUSIAST</h3>
-
-<p>Exploring Cloud</p>
-
-</td>
-
-<td align="center" width="25%">
-
-<h2>🤖</h2>
-
-<h3>AI EXPLORER</h3>
-
-<p>AI-Powered Systems</p>
-
-</td>
-
-</tr>
-</table>
+</div>
 
 </section>
+
+<br/>
+
+---
+
+<div align="center">
+
+  <h2>🛠️ TECHNICAL FOCUS</h2>
+
+  <br/>
+
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,react,js,python,php,mysql,postgres,git,github,docker,aws&theme=dark" alt="Technical Skills"/>
+
+  <br/><br/>
+
+  <p>
+    <strong>Backend & Enterprise Application Development</strong>
+  </p>
+
+  <p>
+    REST APIs • Database Design • Authentication • Full-Stack Applications
+  </p>
+
+</div>
+
+<br/>
+
+---
+
+<section id="github">
+
+<div align="center">
+
+  <h2>📊 GITHUB ANALYTICS</h2>
+
+  <br/>
+
+  <a href="https://github.com/PADSviduranga">
+    <img src="https://github-readme-stats.vercel.app/api?username=PADSviduranga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9&rank_icon=github" height="180" alt="GitHub Stats"/>
+  </a>
+
+  <a href="https://github.com/PADSviduranga">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PADSviduranga&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180" alt="Top Languages"/>
+  </a>
+
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PADSviduranga&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF" width="700" alt="GitHub Streak"/>
+
+</div>
+
+</section>
+
+<br/>
+
+---
+
+<div align="center">
+
+  <h2>🌟 CURRENT MINDSET</h2>
+
+  <br/>
+
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <h3>🎯</h3>
+        <strong>FOCUSED</strong>
+        <br/>
+        <sub>On real-world impact</sub>
+      </td>
+      <td align="center" width="25%">
+        <h3>📈</h3>
+        <strong>CONSISTENT</strong>
+        <br/>
+        <sub>Learning every day</sub>
+      </td>
+      <td align="center" width="25%">
+        <h3>💡</h3>
+        <strong>CREATIVE</strong>
+        <br/>
+        <sub>Turning ideas into solutions</sub>
+      </td>
+      <td align="center" width="25%">
+        <h3>🤝</h3>
+        <strong>COLLABORATIVE</strong>
+        <br/>
+        <sub>Open to opportunities</sub>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <h3>💙 Code Today. Build Tomorrow.</h3>
+
+  <p><i>Always learning. Always building. Always improving.</i></p>
+
+  <br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:2563eb,100:7c3aed&height=100&section=footer" width="100%"/>
+
+</div>
 
 ---
 
