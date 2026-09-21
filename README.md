@@ -1,49 +1,47 @@
 
 <div align="center">
 
-<!-- Header Section -->
+<!-- Header -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:2563eb,100:7c3aed&height=180&section=header&text=SACHINTHA%20VIDURANGA&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%7C%20Full-Stack%20Developer&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0891B2&height=220&section=header&text=SACHINTHA%20VIDURANGA&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Computer%20Science%20Undergraduate%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=17" width="100%"/>
 
 <br/>
 
-<h1>👋 Hi, I'm Sachintha Viduranga</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Backend+%26+Enterprise+Application+Enthusiast;Exploring+Cloud+%7C+DevOps+%7C+Microservices;Interested+in+AI-Powered+Systems;Always+Learning+Something+New" alt="Typing Animation"/>
 
-<h3>💻 Computer Science Undergraduate • Full-Stack Developer • Software Engineer</h3>
+<br/><br/>
 
 <p>
-  <i>Building ideas into real-world solutions.</i>
+  <i>Building ideas into real-world solutions through code.</i>
 </p>
 
 <br/>
 
 <a href="https://github.com/PADSviduranga">
-  <img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/GET%20IN%20TOUCH-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/>
+  <img src="https://img.shields.io/badge/Contact-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/>
+</a>
+&nbsp;
+<a href="https://github.com/PADSviduranga?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=PADSviduranga&label=PROFILE%20VIEWS&color=0891b2&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=PADSviduranga&label=PROFILE%20VIEWS&color=0891B2&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 <br/>
 
-<!-- Profile Section -->
-
-<section id="profile">
+<!-- About Me -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0891B2&height=65&text=👨‍💻%20PROFILE&fontSize=26&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+%26+Enterprise+Application+Enthusiast;Exploring+Cloud%2C+DevOps+%26+Microservices;Interested+in+AI-Powered+Systems;Always+Learning+Something+New" alt="Typing Animation"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=60&text=ABOUT%20ME&fontSize=26&fontColor=38BDF8&fontAlignY=50" width="100%"/>
 
 </div>
 
@@ -51,11 +49,72 @@
 
 <table>
 <tr>
+<td width="60%" valign="top">
+
+<h2>👋 Hello, I'm Sachintha</h2>
+
+I'm a Computer Science undergraduate passionate about creating practical, scalable, and user-focused software solutions.
+
+I enjoy developing full-stack applications, designing backend systems, working with databases, and exploring modern technologies.
+
+Currently, I'm exploring:
+
+- ☁️ Cloud Computing
+- ⚙️ DevOps & Microservices
+- 🤖 AI-Powered Applications
+- 🔐 Software Security
+- 🏗️ Enterprise Application Development
+
+<br/>
+
+<b>💡 My Goal</b>
+
+<br/>
+
+To continuously improve my technical skills, build meaningful projects, and grow as a professional software engineer.
+
+</td>
+
+<td width="40%" valign="top">
+
+<h2>🚀 Quick Profile</h2>
+
+| | |
+|---|---|
+| 🎓 | Computer Science Undergraduate |
+| 💻 | Full-Stack Developer |
+| ⚙️ | Backend Developer |
+| 🌱 | Continuous Learner |
+| 🌍 | Sri Lanka |
+
+<br/>
+
+<h3>Currently Learning</h3>
+
+<img src="https://img.shields.io/badge/Cloud-0EA5E9?style=flat-square&logo=icloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/DevOps-7C3AED?style=flat-square&logo=azuredevops&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-6366F1?style=flat-square&logo=openai&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Developer Focus -->
+
+<div align="center">
+
+<table>
+<tr>
 <td align="center" width="25%">
 
 <h2>💻</h2>
 
-<h3>DEVELOPER</h3>
+<b>DEVELOPMENT</b>
+
+<br/>
 
 <sub>Building Applications</sub>
 
@@ -64,108 +123,47 @@
 
 <h2>⚙️</h2>
 
-<h3>PROBLEM SOLVER</h3>
+<b>BACKEND</b>
 
-<sub>Solving Challenges</sub>
+<br/>
+
+<sub>Designing Systems</sub>
 
 </td>
 <td align="center" width="25%">
 
 <h2>☁️</h2>
 
-<h3>CLOUD ENTHUSIAST</h3>
+<b>CLOUD</b>
 
-<sub>Exploring Cloud</sub>
+<br/>
+
+<sub>Exploring Infrastructure</sub>
 
 </td>
 <td align="center" width="25%">
 
 <h2>🤖</h2>
 
-<h3>AI EXPLORER</h3>
+<b>AI</b>
 
-<sub>AI-Powered Systems</sub>
+<br/>
+
+<sub>Exploring Intelligent Systems</sub>
 
 </td>
 </tr>
 </table>
-
-</section>
-
-<br/>
-
-<!-- About Me Section -->
-
-<section id="about">
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9E8&height=65&text=🚀%20ABOUT%20ME&fontSize=26&fontColor=12343B&fontAlignY=50" width="100%"/>
 
 </div>
 
 <br/>
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
-<h2>👨‍💻 Who Am I?</h2>
-
-I'm a Computer Science undergraduate passionate about building practical and scalable software solutions.
-
-I enjoy developing full-stack applications, designing backend systems, and exploring modern technologies.
-
-Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered software systems.
-
-<br/>
-
-<p>
-💡 <b>My Goal:</b> Keep learning, build meaningful projects, and grow as a software engineer.
-</p>
-
-</td>
-<td width="45%" valign="top">
-
-<h2>💡 Interests</h2>
-
-🎓 Computer Science Undergraduate
-
-<br/><br/>
-
-💻 Full-Stack Developer
-
-<br/><br/>
-
-⚙️ Backend & Enterprise Applications
-
-<br/><br/>
-
-☁️ Cloud, DevOps & Microservices
-
-<br/><br/>
-
-🤖 AI-Powered Software Systems
-
-<br/><br/>
-
-🌍 Sri Lanka
-
-</td>
-</tr>
-</table>
-
-</section>
-
-<br/>
-
-<!-- Tech Stack Section -->
-
-<section id="tech-stack">
+<!-- Tech Stack -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0891B2&height=65&text=🛠️%20TECH%20STACK&fontSize=26&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=60&text=TECHNOLOGY%20STACK&fontSize=26&fontColor=38BDF8&fontAlignY=50" width="100%"/>
 
 </div>
 
@@ -173,38 +171,64 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <div align="center">
 
-<h3>Languages & Technologies</h3>
+<h3>Languages</h3>
+
+<img src="https://skillicons.dev/icons?i=java,python,cs,php,js,ts,html,css,dart" alt="Programming Languages"/>
+
+<br/><br/>
+
+<h3>Frameworks & Platforms</h3>
+
+<img src="https://skillicons.dev/icons?i=spring,dotnet,react,flutter,nodejs,vite" alt="Frameworks and Platforms"/>
+
+<br/><br/>
+
+<h3>Databases</h3>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase" alt="Databases"/>
+
+<br/><br/>
+
+<h3>Tools & Cloud</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,vercel" alt="Tools and Cloud"/>
+
+</div>
+
+<br/>
+
+<!-- Technology Badges -->
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-00C7D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-
-</div>
-
-</section>
 
 <br/>
 
-<!-- Skills Index Section -->
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<section id="skills">
+</div>
+
+<br/>
+
+<!-- Skills Index -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9E8&height=65&text=SKILLS%20INDEX&fontSize=26&fontColor=12343B&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=60&text=SKILLS%20INDEX&fontSize=26&fontColor=38BDF8&fontAlignY=50" width="100%"/>
 
 </div>
 
@@ -212,71 +236,70 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td width="25%" align="center" valign="top">
 
 <h3>Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,php,html,css" width="100%"/>
+<img src="https://skillicons.dev/icons?i=java,python,cs,php,js,ts,html,css" width="100%" alt="Languages"/>
 
 </td>
-<td align="center" width="25%">
+<td width="25%" align="center" valign="top">
 
 <h3>Frameworks</h3>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,dotnet,flutter" width="100%"/>
+<img src="https://skillicons.dev/icons?i=react,spring,dotnet,flutter,nodejs" width="100%" alt="Frameworks"/>
 
 </td>
-<td align="center" width="25%">
+<td width="25%" align="center" valign="top">
 
 <h3>Databases</h3>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" width="100%"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase" width="100%" alt="Databases"/>
 
 </td>
-<td align="center" width="25%">
+<td width="25%" align="center" valign="top">
 
-<h3>Tools & Cloud</h3>
+<h3>Tools</h3>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,vercel" width="100%"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,vercel" width="100%" alt="Tools"/>
 
 </td>
 </tr>
 </table>
 
-</section>
-
 <br/>
 
-<!-- Achievements Section -->
-
-<section id="achievements">
+<!-- Achievements -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=A900FF&height=65&text=🏆%20ACHIEVEMENTS&fontSize=26&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=60&text=ACHIEVEMENTS&fontSize=26&fontColor=38BDF8&fontAlignY=50" width="100%"/>
 
 <br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=PADSviduranga&theme=darkhub&no-frame=true&no-bg=true&column=6" width="100%" alt="GitHub Trophies"/>
 
-</div>
+<br/><br/>
 
-</section>
+<img src="https://img.shields.io/badge/Continuous%20Learning-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full--Stack%20Development-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Building%20Projects-0F766E?style=for-the-badge"/>
+
+</div>
 
 <br/>
 
-<!-- Projects Gallery Section -->
-
-<section id="projects">
+<!-- Projects -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9E8&height=65&text=PROJECTS%20GALLERY&fontSize=26&fontColor=12343B&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=60&text=PROJECTS%20GALLERY&fontSize=26&fontColor=38BDF8&fontAlignY=50" width="100%"/>
 
 <br/>
 
 <p>
-  <i>Building solutions through code, creativity, and continuous learning.</i>
+  <i>A collection of applications and systems built while learning and exploring software development.</i>
 </p>
 
 </div>
@@ -293,15 +316,19 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <h3>Full-Stack Recruitment Platform</h3>
 
-<p>Modern recruitment platform built with React and ASP.NET Core.</p>
+<p>
+A modern recruitment platform developed using React and ASP.NET Core.
+</p>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL%20Server-4479A1?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 
 <br/><br/>
 
-<a href="YOUR_APEXHIRE_REPOSITORY_URL">🌐 View Project →</a>
+<a href="YOUR_APEXHIRE_REPOSITORY_URL">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="ApexHire Repository"/>
+</a>
 
 </div>
 
@@ -314,7 +341,9 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <h3>Disaster Logistics & Resource Optimization</h3>
 
-<p>A disaster logistics and resource optimization system.</p>
+<p>
+A system designed to support disaster logistics, resource management, and distribution operations.
+</p>
 
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -322,12 +351,15 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <br/><br/>
 
-<a href="YOUR_RESQGRID_REPOSITORY_URL">🌐 View Project →</a>
+<a href="YOUR_RESQGRID_REPOSITORY_URL">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="ResQGrid Repository"/>
+</a>
 
 </div>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -337,7 +369,9 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <h3>Online Music Player</h3>
 
-<p>Modern music player built with React, Vite, and the HTML5 Audio API.</p>
+<p>
+A modern music player built using React, Vite, and the HTML5 Audio API.
+</p>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
@@ -345,7 +379,9 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <br/><br/>
 
-<a href="YOUR_SONICFLOW_REPOSITORY_URL">🌐 View Project →</a>
+<a href="YOUR_SONICFLOW_REPOSITORY_URL">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="SonicFlow Repository"/>
+</a>
 
 </div>
 
@@ -358,19 +394,24 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <h3>Financial Fraud Detection System</h3>
 
-<p>PHP-based fraud detection and investigation system with risk scoring and alert management.</p>
+<p>
+A PHP-based system for fraud detection, risk scoring, suspicious transaction identification, and alert management.
+</p>
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
 <br/><br/>
 
-<a href="YOUR_FRAUDSHIELD_REPOSITORY_URL">🌐 View Project →</a>
+<a href="YOUR_FRAUDSHIELD_REPOSITORY_URL">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="FraudShield Repository"/>
+</a>
 
 </div>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -380,14 +421,18 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <h3>Interactive Coding Puzzle Game</h3>
 
-<p>Flutter and Dart mobile game project with coding challenges and interactive gameplay.</p>
+<p>
+A mobile game built with Flutter and Dart featuring coding challenges and interactive gameplay.
+</p>
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
 
 <br/><br/>
 
-<a href="YOUR_CODEQUEST_REPOSITORY_URL">🌐 View Project →</a>
+<a href="YOUR_CODEQUEST_REPOSITORY_URL">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="CodeQuest Repository"/>
+</a>
 
 </div>
 
@@ -400,14 +445,18 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <h3>AI-Powered Image Analysis</h3>
 
-<p>Full-stack project combining React and ASP.NET Core.</p>
+<p>
+A full-stack project combining React and ASP.NET Core for image analysis.
+</p>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 
 <br/><br/>
 
-<a href="YOUR_PIXELPROOF_REPOSITORY_URL">🌐 View Project →</a>
+<a href="YOUR_PIXELPROOF_REPOSITORY_URL">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="PixelProof Repository"/>
+</a>
 
 </div>
 
@@ -415,17 +464,13 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 </tr>
 </table>
 
-</section>
-
 <br/>
 
-<!-- Academic Background Section -->
-
-<section id="education">
+<!-- Academic Background -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=DC2626&height=65&text=🎓%20ACADEMIC%20BACKGROUND&fontSize=24&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=60&text=ACADEMIC%20BACKGROUND&fontSize=25&fontColor=38BDF8&fontAlignY=50" width="100%"/>
 
 </div>
 
@@ -439,27 +484,28 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <h3>BSc (Hons) Computer Science</h3>
 
-📍 NSBM Green University
+📍 <b>NSBM Green University</b>
 
 📅 2025 – Present
 
-<br/>
+<hr/>
 
 <h3>Diploma in IT & English</h3>
 
-📍 ESOFT Metro Campus
+📍 <b>ESOFT Metro Campus</b>
 
 📅 2023
 
-<br/>
+<hr/>
 
-<h3>Advanced Level (Bio Science)</h3>
+<h3>Advanced Level — Bio Science</h3>
 
-📍 Kegalu Balika Vidyalaya
+📍 <b>Kegalu Balika Vidyalaya</b>
 
 📅 2019 – 2021
 
 </td>
+
 <td width="50%" valign="top">
 
 <h2>🏆 Certifications</h2>
@@ -468,40 +514,36 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 Basic – Advanced
 
-📍 Cisco Networking Academy
+📍 <b>Cisco Networking Academy</b>
 
-<br/>
+<hr/>
 
 <h3>🗣️ English Language Certification</h3>
 
-📍 Britishway English Academy
+📍 <b>Britishway English Academy</b>
 
-<br/>
+<hr/>
 
 <h3>💼 Professional Communication</h3>
 
-📍 ESOFT Metro Campus
+📍 <b>ESOFT Metro Campus</b>
 
 </td>
 </tr>
 </table>
 
-</section>
-
 <br/>
 
-<!-- GitHub Analytics Section -->
-
-<section id="github-analytics">
+<!-- GitHub Analytics -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6B579B&height=65&text=GITHUB%20ANALYTICS&fontSize=26&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=60&text=GITHUB%20ANALYTICS&fontSize=26&fontColor=38BDF8&fontAlignY=50" width="100%"/>
 
 <br/><br/>
 
 <p>
-  <i>My coding activity and language statistics</i>
+  <i>A look at my GitHub activity, statistics, and programming languages.</i>
 </p>
 
 </div>
@@ -514,7 +556,7 @@ Basic – Advanced
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PADSviduranga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PADSviduranga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Statistics"/>
 
 </td>
 <td width="50%" align="center">
@@ -533,13 +575,17 @@ Basic – Advanced
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PADSviduranga&theme=tokyonight&hide_border=true&background=191B2A&ring=6C9EFF&fire=9B7EDE&currStreakNum=FFFFFF&sideNums=6C9EFF&currStreakLabel=9B7EDE&sideLabels=6C9EFF&dates=2DD4BF" width="90%" alt="GitHub Streak"/>
+<h2>🔥 Contribution Streak</h2>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PADSviduranga&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=7C3AED&currStreakNum=FFFFFF&sideNums=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8" width="90%" alt="GitHub Streak"/>
 
 </div>
 
 <br/>
 
-<!-- Language Charts -->
+<!-- Language Analytics -->
 
 <div align="center">
 
@@ -551,17 +597,17 @@ Basic – Advanced
 <tr>
 <td width="33%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PADSviduranga&theme=github_dark" width="100%" alt="GitHub Summary Statistics"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PADSviduranga&theme=github_dark" width="100%" alt="GitHub Statistics Summary"/>
 
 </td>
 <td width="33%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PADSviduranga&theme=github_dark" width="100%" alt="Most Used Languages by Commit"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PADSviduranga&theme=github_dark" width="100%" alt="Most Used Commit Languages"/>
 
 </td>
 <td width="33%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PADSviduranga&theme=github_dark" width="100%" alt="Languages by Repository"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PADSviduranga&theme=github_dark" width="100%" alt="Repositories by Language"/>
 
 </td>
 </tr>
@@ -569,17 +615,13 @@ Basic – Advanced
 
 </div>
 
-</section>
-
 <br/>
 
-<!-- Contribution Activity Section -->
-
-<section id="contribution-activity">
+<!-- Contribution Activity -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9E8&height=65&text=CONTRIBUTION%20ACTIVITY&fontSize=26&fontColor=12343B&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=60&text=CONTRIBUTION%20ACTIVITY&fontSize=26&fontColor=38BDF8&fontAlignY=50" width="100%"/>
 
 <br/><br/>
 
@@ -589,40 +631,32 @@ Basic – Advanced
 
 <br/>
 
-<img src="https://ghchart.rshah.org/7C3AED/PADSviduranga" alt="GitHub Contribution Calendar" width="100%"/>
-
-<br/><br/>
-
-<p>
-  <b>💜 Keep Building. Keep Growing.</b>
-</p>
+<img src="https://ghchart.rshah.org/0891B2/PADSviduranga" alt="GitHub Contribution Calendar" width="100%"/>
 
 </div>
 
-</section>
-
 <br/>
 
-<!-- Footer Section -->
-
-<section id="footer">
+<!-- Footer -->
 
 <div align="center">
 
+<br/>
+
 <h2>💙 Code Today. Build Tomorrow.</h2>
 
-<i>Always learning. Always building. Always improving.</i>
+<p>
+  <i>Always learning. Always building. Always improving.</i>
+</p>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/PADSviduranga">
-<img src="https://img.shields.io/badge/GitHub-PADSviduranga-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:2563EB,100:7C3AED&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0891B2&height=120&section=footer" width="100%"/>
 
 </div>
-
-</section>
