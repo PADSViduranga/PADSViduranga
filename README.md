@@ -1,90 +1,68 @@
 
+<!-- Profile Header -->
 <div align="center">
 
-<!-- Header Section -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:2563EB,100:7C3AED&height=220&section=header&text=SACHINTHA%20VIDURANGA&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:2563eb,100:7c3aed&height=190&section=header&text=SACHINTHA%20VIDURANGA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%7C%20Full-Stack%20Developer&descAlignY=62&descSize=16" width="100%"/>
+  <br/>
 
-<h1>👋 Hi, I'm Sachintha Viduranga</h1>
+  <h1>👋 Hi, I'm Sachintha Viduranga</h1>
 
-<h3>💻 Computer Science Undergraduate • Full-Stack Developer • Software Engineer</h3>
+  <h3>💻 Computer Science Undergraduate • Full-Stack Developer • Software Engineer</h3>
 
-<p>
-Building ideas into real-world solutions.
-</p>
+  <p>
+    <i>Building ideas into real-world solutions.</i>
+  </p>
 
-<a href="https://github.com/PADSviduranga">
-<img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/GET%20IN%20TOUCH-0891B2?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/PADSviduranga?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <a href="https://github.com/PADSviduranga">
+    <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Get%20In%20Touch-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch"/>
+  </a>
+  <a href="https://github.com/PADSviduranga?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+  </a>
 
-<br/><br/>
+  <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=PADSviduranga&label=PROFILE%20VIEWS&color=0891b2&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=PADSviduranga&label=PROFILE%20VIEWS&color=0891B2&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
-<section>
+<br/>
 
 <!-- Profile Section -->
+<section>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0891B2&height=70&text=👨‍💻%20PROFILE&fontSize=28&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Backend+%26+Enterprise+Application+Enthusiast;Exploring+Cloud%2C+DevOps+%26+Microservices;Interested+in+AI-Powered+Systems;Always+Learning+Something+New"/>
-
-</div>
-
-<br/>
+## 🧑‍💻 PROFILE
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-<h2>💻</h2>
+### 🚀 About Me
 
-<h3>DEVELOPER</h3>
-
-<p>Building Applications</p>
-
-</td>
-<td align="center" width="25%">
-
-<h2>⚙️</h2>
-
-<h3>PROBLEM SOLVER</h3>
-
-<p>Solving Challenges</p>
+- 🎓 Computer Science Undergraduate
+- 💻 Full-Stack Developer
+- ⚙️ Backend & Enterprise Application Enthusiast
+- ☁️ Exploring Cloud, DevOps & Microservices
+- 🤖 Interested in AI-powered Software Systems
+- 🛠️ Building Practical & Scalable Applications
+- 📍 Sri Lanka
 
 </td>
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-<h2>☁️</h2>
+### 🎯 Current Focus
 
-<h3>CLOUD ENTHUSIAST</h3>
-
-<p>Exploring Cloud</p>
-
-</td>
-<td align="center" width="25%">
-
-<h2>🤖</h2>
-
-<h3>AI EXPLORER</h3>
-
-<p>AI-Powered Systems</p>
+- 🔹 Backend Engineering
+- 🔹 Full-Stack Web Development
+- 🔹 Enterprise Application Development
+- 🔹 REST API Design
+- 🔹 Database Architecture
+- 🔹 Cloud & DevOps Learning
+- 🔹 AI-Assisted Applications
 
 </td>
 </tr>
@@ -92,149 +70,122 @@ Building ideas into real-world solutions.
 
 </section>
 
+<br/>
+
+<!-- Technology Stack -->
 <section>
 
-<!-- About Me Section -->
+## 🛠️ TECH STACK
+
+### Languages
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9E8&height=70&text=🚀%20ABOUT%20ME&fontSize=28&fontColor=12343B&fontAlignY=50" width="100%"/>
+<img src="https://skillicons.dev/icons?i=java,cs,python,php,js,ts,html,css,dart" alt="Programming Languages"/>
 
 </div>
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
-<h2>👨‍💻 Who Am I?</h2>
-
-I'm a Computer Science undergraduate passionate about building practical and scalable software solutions.
-
-I enjoy developing full-stack applications, designing backend systems, and exploring modern technologies.
-
-Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered software systems.
-
-<br/>
-
-<h3>💡 My Goal</h3>
-
-Keep learning, build meaningful projects, and grow as a software engineer.
-
-</td>
-<td width="45%" valign="top">
-
-<h2>🌱 Interests</h2>
-
-🎓 Computer Science Undergraduate
-
-<br/><br/>
-
-💻 Full-Stack Development
-
-<br/><br/>
-
-⚙️ Backend & Enterprise Applications
-
-<br/><br/>
-
-☁️ Cloud, DevOps & Microservices
-
-<br/><br/>
-
-🤖 AI-Powered Software Systems
-
-<br/><br/>
-
-🌍 Sri Lanka
-
-</td>
-</tr>
-</table>
-
-</section>
-
-<section>
-
-<!-- Tech Stack Section -->
+### Frameworks & Libraries
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0891B2&height=70&text=🛠️%20TECH%20STACK&fontSize=28&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
+<img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,flask,dotnet,flutter" alt="Frameworks and Libraries"/>
 
 </div>
 
-<h2>Languages & Technologies</h2>
+### Databases
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-00C7D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Enterprise%20IT-800080?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" alt="Databases"/>
 
-<br/>
+</div>
 
-<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+### Tools & Cloud
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,aws,postman" alt="Tools and Cloud"/>
 
 </div>
 
 </section>
 
+<br/>
+
+<!-- Skills Index -->
 <section>
 
-<!-- Skills Index Section -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9E8&height=70&text=SKILLS%20INDEX&fontSize=28&fontColor=12343B&fontAlignY=50" width="100%"/>
-
-</div>
+## 🧠 SKILLS INDEX
 
 <table>
 <tr>
 <td align="center" width="25%">
 
-<h2>Languages</h2>
+### 💻
 
-<br/>
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,php,html,css" />
+Java
 
-</td>
-<td align="center" width="25%">
+C#
 
-<h2>Frameworks</h2>
+Python
 
-<br/>
+JavaScript
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,dotnet,flutter" />
+PHP
 
-</td>
-<td align="center" width="25%">
-
-<h2>Databases</h2>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
+Dart
 
 </td>
 <td align="center" width="25%">
 
-<h2>Tools & Cloud</h2>
+### ⚡
 
-<br/>
+**Frameworks**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,vercel" />
+Spring Boot
+
+React.js
+
+ASP.NET Core
+
+Node.js
+
+Flutter
+
+</td>
+<td align="center" width="25%">
+
+### 🗄️
+
+**Databases**
+
+MySQL
+
+PostgreSQL
+
+MongoDB
+
+SQL Server
+
+</td>
+<td align="center" width="25%">
+
+### ☁️
+
+**Tools**
+
+Git
+
+Docker
+
+REST API
+
+Postman
+
+AWS
 
 </td>
 </tr>
@@ -242,133 +193,107 @@ Keep learning, build meaningful projects, and grow as a software engineer.
 
 </section>
 
+<br/>
+
+<!-- Projects Gallery -->
 <section>
 
-<!-- Achievements Section -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=A900FF&height=70&text=ACHIEVEMENTS&fontSize=28&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=PADSviduranga&theme=darkhub&no-frame=true&no-bg=true&column=6" width="100%"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🏅_EXCELLENCE-555555?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MULTI_STACK-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🏆_LEADERBOARD-555555?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TOP_CONTRIBUTOR-FFD700?style=for-the-badge&logoColor=black"/>
-
-</div>
-
-</section>
-
-<section>
-
-<!-- Projects Gallery Section -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9E8&height=70&text=PROJECTS%20GALLERY&fontSize=28&fontColor=12343B&fontAlignY=50" width="100%"/>
-
-</div>
+## 🚀 PROJECTS GALLERY
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
+<h3 align="center">💼 ApexHire</h3>
 
-<h2>🏢 ApexHire</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+</p>
 
-<img src="YOUR_APEXHIRE_IMAGE_URL" width="100%"/>
+A full-stack recruitment platform built using React and ASP.NET Core Web API.
 
-<h3>Full-Stack Recruitment Platform</h3>
+**Focus:**
+- Recruitment Management
+- REST APIs
+- Entity Framework Core
+- SQL Server
 
-<p>Modern recruitment platform built with React and ASP.NET Core.</p>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL%20Server-4479A1?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-
-<br/><br/>
-
-<a href="YOUR_APEXHIRE_REPOSITORY_URL">🌐 GitHub →</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/PADSviduranga/ApexHire">View Project ↗</a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
+<h3 align="center">🌐 UniCircle</h3>
 
-<h2>🚨 ResQGrid</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+</p>
 
-<img src="YOUR_RESQGRID_IMAGE_URL" width="100%"/>
+A university club management platform for clubs, events, charities, and fundraising.
 
-<h3>Disaster Logistics & Resource Optimization</h3>
+**Focus:**
+- Enterprise Application Development
+- Role-Based Access
+- REST API Architecture
+- Database Management
 
-<p>A disaster logistics and resource optimization system.</p>
-
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
-<br/><br/>
-
-<a href="YOUR_RESQGRID_REPOSITORY_URL">🌐 GitHub →</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/PADSviduranga">View Projects ↗</a>
+</p>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
+<h3 align="center">🚨 ResQGrid</h3>
 
-<h2>🎵 SonicFlow</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
 
-<img src="YOUR_SONICFLOW_IMAGE_URL" width="100%"/>
+Disaster logistics and resource optimization system for managing disaster response operations.
 
-<h3>Online Music Player</h3>
+**Focus:**
+- Disaster Resource Management
+- Logistics Coordination
+- Authentication & Authorization
+- Full-Stack Integration
 
-<p>Modern music player built with React, Vite, and the HTML5 Audio API.</p>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
-<br/><br/>
-
-<a href="YOUR_SONICFLOW_REPOSITORY_URL">🌐 GitHub →</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/PADSviduranga">View Project ↗</a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
+<h3 align="center">🎮 CodeQuest</h3>
 
-<h2>🛡️ FraudShield</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+</p>
 
-<img src="YOUR_FRAUDSHIELD_IMAGE_URL" width="100%"/>
+An interactive mobile coding game built for mobile application development coursework.
 
-<h3>Financial Fraud Detection System</h3>
+**Focus:**
+- Mobile Application Development
+- Game Mechanics
+- Backend Integration
+- Interactive User Experience
 
-<p>PHP-based fraud detection and investigation system with risk scoring and alert management.</p>
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
-<br/><br/>
-
-<a href="YOUR_FRAUDSHIELD_REPOSITORY_URL">🌐 GitHub →</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/PADSviduranga">View Project ↗</a>
+</p>
 
 </td>
 </tr>
@@ -376,57 +301,88 @@ Keep learning, build meaningful projects, and grow as a software engineer.
 
 </section>
 
+<br/>
+
+<!-- GitHub Analytics -->
 <section>
 
-<!-- More Projects Section -->
+## 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9E8&height=70&text=MORE%20PROJECTS&fontSize=28&fontColor=12343B&fontAlignY=50" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PADSviduranga&theme=tokyonight" width="100%" alt="GitHub Contribution Activity"/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PADSviduranga&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=BC8CFF&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PADSviduranga&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="100%" alt="Top Languages"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=PADSviduranga&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF" width="100%" alt="GitHub Streak"/>
+
+<br/><br/>
+
+### 📈 CONTRIBUTION ACTIVITY
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PADSviduranga&bg_color=0D1117&color=58A6FF&line=BC8CFF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity Graph"/>
+
+<br/>
+
+### 🟩 CONTRIBUTION HEATMAP
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PADSviduranga&theme=tokyonight" width="100%" alt="Contribution Heatmap"/>
 
 </div>
+
+</section>
+
+<br/>
+
+<!-- Achievements -->
+<section>
+
+## 🏆 ACHIEVEMENTS & CERTIFICATIONS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
+### 🎓 Academic Background
 
-<h2>🎮 CodeQuest</h2>
+- 🎓 BSc (Hons) Computer Science
+- 🏫 NSBM Green University
+- 📅 2025 – Present
 
-<h3>Interactive Coding Puzzle Game</h3>
+- 📘 Diploma in IT & English
+- 🏫 ESOFT Metro Campus
+- 📅 2023
 
-<p>Flutter and Dart mobile game project with coding challenges and interactive gameplay.</p>
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-
-<br/><br/>
-
-<a href="YOUR_CODEQUEST_REPOSITORY_URL">🌐 GitHub →</a>
-
-</div>
+- 📚 Advanced Level (Bio Science)
+- 🏫 Kegalu Balika Vidyalaya
+- 📅 2019 – 2021
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
+### 📜 Certifications
 
-<h2>🔐 PixelProof AI</h2>
-
-<h3>AI-Powered Image Analysis</h3>
-
-<p>Full-stack project combining React and ASP.NET Core.</p>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-
-<br/><br/>
-
-<a href="YOUR_PIXELPROOF_REPOSITORY_URL">🌐 GitHub →</a>
-
-</div>
+- ⚡ C++ Essentials (Basic – Advanced)
+- 🌐 Cisco Networking Academy
+- 🗣️ English Language Certification
+- 💬 Professional Communication
 
 </td>
 </tr>
@@ -434,160 +390,40 @@ Keep learning, build meaningful projects, and grow as a software engineer.
 
 </section>
 
+<br/>
+
+<!-- Learning Journey -->
 <section>
 
-<!-- Academic Background Section -->
+## 🌱 CURRENTLY LEARNING
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=DC2626&height=70&text=🎓%20ACADEMIC%20BACKGROUND&fontSize=24&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h2>🎓 Education</h2>
-
-<img src="YOUR_NSBM_IMAGE_URL" width="100%"/>
-
-<h3>BSc (Hons) Computer Science</h3>
-
-📍 NSBM Green University
-
-📅 2025 – Present
-
-<br/>
-
-<h3>Diploma in IT & English</h3>
-
-📍 ESOFT Metro Campus
-
-📅 2023
-
-<br/>
-
-<h3>Advanced Level (Bio Science)</h3>
-
-📍 Kegalu Balika Vidyalaya
-
-📅 2019 – 2021
-
-</td>
-<td width="50%" valign="top">
-
-<h2>🏆 Certifications</h2>
-
-<img src="YOUR_CERTIFICATION_IMAGE_URL" width="100%"/>
-
-<h3>⚡ C++ Essentials</h3>
-
-Basic – Advanced
-
-📍 Cisco Networking Academy
-
-<br/>
-
-<h3>🗣️ English Language Certification</h3>
-
-📍 Britishway English Academy
-
-<br/>
-
-<h3>💼 Professional Communication</h3>
-
-📍 ESOFT Metro Campus
-
-</td>
-</tr>
-</table>
-
-</section>
-
-<section>
-
-<!-- GitHub Analytics Section -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6B579B&height=70&text=GITHUB%20ANALYTICS&fontSize=28&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
-
-<br/><br/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PADSviduranga&theme=tokyonight&hide_border=true&background=191B2A&ring=6C9EFF&fire=9B7EDE&currStreakNum=FFFFFF&sideNums=6C9EFF&currStreakLabel=9B7EDE&sideLabels=6C9EFF&dates=2DD4BF" width="90%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PADSviduranga&theme=github_dark" width="100%"/>
-
-</td>
-<td width="33%" align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PADSviduranga&theme=github_dark" width="100%"/>
-
-</td>
-<td width="33%" align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PADSviduranga&theme=github_dark" width="100%"/>
-
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Cloud%20Computing-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Engineering-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
 
 </div>
 
 </section>
 
-<section>
-
-<!-- Contribution Activity Section -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9E8&height=70&text=CONTRIBUTION%20ACTIVITY&fontSize=28&fontColor=12343B&fontAlignY=50" width="100%"/>
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/7C3AED/PADSviduranga" alt="GitHub Contribution Calendar" width="100%"/>
-
-</div>
-
-</section>
-
-<section>
-
-<!-- Footer Section -->
-
-<div align="center">
-
 <br/>
 
-<h2>💙 Code Today. Build Tomorrow.</h2>
+<!-- Developer Quote -->
+<section>
 
-<i>Always learning. Always building.</i>
+## 💙 DEVELOPER MINDSET
+
+<div align="center">
+
+### Code Today. Build Tomorrow.
+
+<i>Always learning. Always building. Always improving.</i>
 
 <br/><br/>
 
-<a href="https://github.com/PADSviduranga">
-<img src="https://img.shields.io/badge/GitHub-PADSviduranga-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:2563eb,100:7c3aed&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:2563EB,100:7C3AED&height=120&section=footer" width="100%"/>
 
 </div>
 
