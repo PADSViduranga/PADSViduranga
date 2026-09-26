@@ -1,25 +1,31 @@
 <div align="center">
 
-<!-- Header -->
+<!-- Animated Header -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=180&section=header&text=SACHINTHA%20VIDURANGA&fontSize=40&fontColor=F8FAFC&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%7C%20Full-Stack%20Developer&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,75:06B6D4,100:7C3AED&height=200&section=header&text=SACHINTHA%20VIDURANGA&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%7C%20Full-Stack%20Developer&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 
-<h1>👋 Hi, I'm Sachintha Viduranga</h1>
+<!-- Animated Introduction -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Sachintha+Viduranga;💻+Full-Stack+Developer;⚙️+Backend+%26+Enterprise+Application+Enthusiast;☁️+Exploring+Cloud+%26+DevOps;🤖+Exploring+AI-Powered+Systems;🚀+Always+Learning+Something+New" />
+
+<br/>
 
 <h3>💻 Computer Science Undergraduate • Full-Stack Developer • Software Engineer</h3>
 
 <p>
-  Building ideas into real-world solutions.
+Building ideas into real-world solutions.
 </p>
 
 <br/>
 
+<!-- Animated Profile Buttons -->
+
 <a href="https://github.com/PADSviduranga">
-  <img src="https://img.shields.io/badge/GitHub-View%20Profile-0F172A?style=for-the-badge&logo=github&logoColor=F8FAFC"/>
+<img src="https://img.shields.io/badge/GitHub-View%20Profile-0F172A?style=for-the-badge&logo=github&logoColor=F8FAFC"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Get%20In%20Touch-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Get%20In%20Touch-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -28,13 +34,15 @@
 
 </div>
 
+<br/>
+
 ---
 
 <!-- Profile -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=70&text=👨‍💻%20PROFILE&fontSize=28&fontColor=F8FAFC&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=70&text=👨‍💻%20PROFILE&fontSize=28&fontColor=F8FAFC&fontAlignY=50&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -42,11 +50,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+%26+Enterprise+Application+Enthusiast;Exploring+Cloud%2C+DevOps+%26+Microservices;Interested+in+AI-Powered+Systems;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Backend+%26+Enterprise+Application+Enthusiast;Exploring+Cloud%2C+DevOps+%26+Microservices;Interested+in+AI-Powered+Systems;Always+Learning+Something+New"/>
 
 </div>
 
 <br/>
+
+<!-- Animated Skill Cards -->
 
 <table>
 <tr>
@@ -59,6 +69,8 @@
 
 <p>Building Applications</p>
 
+<img src="https://img.shields.io/badge/BUILD-2563EB?style=flat-square"/>
+
 </td>
 
 <td align="center" width="25%">
@@ -68,6 +80,8 @@
 <h3>PROBLEM SOLVER</h3>
 
 <p>Solving Challenges</p>
+
+<img src="https://img.shields.io/badge/SOLVE-06B6D4?style=flat-square"/>
 
 </td>
 
@@ -79,6 +93,8 @@
 
 <p>Exploring Cloud</p>
 
+<img src="https://img.shields.io/badge/EXPLORE-7C3AED?style=flat-square"/>
+
 </td>
 
 <td align="center" width="25%">
@@ -88,6 +104,8 @@
 <h3>AI EXPLORER</h3>
 
 <p>AI-Powered Systems</p>
+
+<img src="https://img.shields.io/badge/LEARN-38BDF8?style=flat-square"/>
 
 </td>
 
@@ -100,7 +118,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=70&text=🚀%20ABOUT%20ME&fontSize=28&fontColor=F8FAFC&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=70&text=🚀%20ABOUT%20ME&fontSize=28&fontColor=F8FAFC&fontAlignY=50&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -124,6 +142,10 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 <p>
 💡 <b>My Goal:</b> Keep learning, build meaningful projects, and grow as a software engineer.
 </p>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=06B6D4&width=500&lines=Code+%E2%86%92+Build+%E2%86%92+Learn+%E2%86%92+Improve;Turning+ideas+into+software;Learning+something+new+every+day"/>
 
 </td>
 
@@ -164,11 +186,25 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=70&text=🛠️%20TECH%20STACK&fontSize=28&fontColor=F8FAFC&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=70&text=🛠️%20TECH%20STACK&fontSize=28&fontColor=F8FAFC&fontAlignY=50&animation=fadeIn" width="100%"/>
 
 </div>
 
-<h2>Tech Stack</h2>
+<br/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,python,mysql,js,cs,dotnet,php,flutter,git,github&perline=6"/>
+
+<br/><br/>
+
+<!-- Animated Tech Line -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+React+%7C+Python;ASP.NET+Core+%7C+C%23+%7C+PHP+%7C+Flutter;MySQL+%7C+REST+API+%7C+Git+%7C+GitHub"/>
+
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -197,7 +233,7 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=70&text=SKILLS%20INDEX&fontSize=28&fontColor=F8FAFC&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=70&text=SKILLS%20INDEX&fontSize=28&fontColor=F8FAFC&fontAlignY=50&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -255,7 +291,7 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=70&text=ACHIEVEMENTS&fontSize=28&fontColor=F8FAFC&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=70&text=🏆%20ACHIEVEMENTS&fontSize=28&fontColor=F8FAFC&fontAlignY=50&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -272,6 +308,10 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 <img src="https://img.shields.io/badge/🏆_LEADERBOARD-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/TOP_CONTRIBUTOR-06B6D4?style=for-the-badge&logoColor=black"/>
 
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=550&lines=Keep+Building+%F0%9F%9A%80;Keep+Learning+%F0%9F%93%9A;Keep+Improving+%E2%9A%A1"/>
+
 </div>
 
 ---
@@ -280,7 +320,7 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=70&text=PROJECTS%20GALLERY&fontSize=28&fontColor=F8FAFC&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=70&text=🚀%20PROJECTS%20GALLERY&fontSize=28&fontColor=F8FAFC&fontAlignY=50&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -421,7 +461,7 @@ PHP-based fraud detection and investigation system with risk scoring and alert m
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=70&text=MORE%20PROJECTS&fontSize=28&fontColor=F8FAFC&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=70&text=✨%20MORE%20PROJECTS&fontSize=28&fontColor=F8FAFC&fontAlignY=50&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -490,11 +530,11 @@ Full-stack project combining React and ASP.NET Core.
 
 ---
 
-<!-- Academic Background -->
+<!-- Education -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=70&text=🎓%20EDUCATION&fontSize=28&fontColor=F8FAFC&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=70&text=🎓%20EDUCATION&fontSize=28&fontColor=F8FAFC&fontAlignY=50&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -538,7 +578,7 @@ Full-stack project combining React and ASP.NET Core.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=70&text=GITHUB%20ANALYTICS&fontSize=28&fontColor=F8FAFC&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=70&text=📊%20GITHUB%20ANALYTICS&fontSize=28&fontColor=F8FAFC&fontAlignY=50&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -564,13 +604,13 @@ Full-stack project combining React and ASP.NET Core.
 
 <br/>
 
-<!-- Language Analytics -->
+<!-- Animated Analytics -->
 
 <div align="center">
 
-<h1>📊 GITHUB ANALYTICS</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Tracking+the+Journey;Every+Commit+Counts;Building+One+Project+at+a+Time"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PADSviduranga&theme=tokyonight&hide_border=true&background=0F172A&ring=2563EB&fire=7C3AED&currStreakNum=F8FAFC&sideNums=38BDF8&currStreakLabel=7C3AED&sideLabels=38BDF8&dates=06B6D4" width="90%"/>
 
@@ -600,8 +640,6 @@ Full-stack project combining React and ASP.NET Core.
 </tr>
 </table>
 
-<br/>
-
 </div>
 
 <hr/>
@@ -614,6 +652,12 @@ Full-stack project combining React and ASP.NET Core.
 
 <br/>
 
+<!-- Animated Contribution Snake -->
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
+
+<br/><br/>
+
 <img src="https://ghchart.rshah.org/2563EB/PADSviduranga" alt="GitHub Contribution Calendar" width="100%"/>
 
 </div>
@@ -624,8 +668,16 @@ Full-stack project combining React and ASP.NET Core.
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=38BDF8&center=true&vCenter=true&width=650&lines=💙+Code+Today.+Build+Tomorrow.;🚀+Always+Learning.+Always+Building.;⚡+Turning+Ideas+Into+Reality."/>
+
+<br/><br/>
+
 <h2>💙 Code Today. Build Tomorrow.</h2>
 
 <i>Always learning. Always building.</i>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,45:2563EB,75:06B6D4,100:0F172A&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
