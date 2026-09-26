@@ -1,9 +1,8 @@
-
 <div align="center">
 
 <!-- Header -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:2563eb,100:7c3aed&height=180&section=header&text=SACHINTHA%20VIDURANGA&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%7C%20Full-Stack%20Developer&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=180&section=header&text=SACHINTHA%20VIDURANGA&fontSize=40&fontColor=F8FAFC&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%7C%20Full-Stack%20Developer&descAlignY=62&descSize=16" width="100%"/>
 
 <h1>👋 Hi, I'm Sachintha Viduranga</h1>
 
@@ -16,16 +15,16 @@
 <br/>
 
 <a href="https://github.com/PADSviduranga">
-  <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-View%20Profile-0F172A?style=for-the-badge&logo=github&logoColor=F8FAFC"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Get%20In%20Touch-0891b2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Get%20In%20Touch-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=PADSviduranga&label=PROFILE%20VIEWS&color=0891b2&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=PADSviduranga&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge"/>
 
 </div>
 
@@ -35,7 +34,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0891B2&height=70&text=👨‍💻%20PROFILE&fontSize=28&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=70&text=👨‍💻%20PROFILE&fontSize=28&fontColor=F8FAFC&fontAlignY=50" width="100%"/>
 
 </div>
 
@@ -101,7 +100,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9E8&height=70&text=🚀%20ABOUT%20ME&fontSize=28&fontColor=12343B&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=70&text=🚀%20ABOUT%20ME&fontSize=28&fontColor=F8FAFC&fontAlignY=50" width="100%"/>
 
 </div>
 
@@ -165,7 +164,7 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0891B2&height=70&text=🛠️%20TECH%20STACK&fontSize=28&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=70&text=🛠️%20TECH%20STACK&fontSize=28&fontColor=F8FAFC&fontAlignY=50" width="100%"/>
 
 </div>
 
@@ -178,9 +177,9 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-00C7D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20API-06B6D4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Enterprise%20IT-800080?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Enterprise%20IT-475569?style=for-the-badge"/>
 
 <br/><br/>
 
@@ -198,7 +197,7 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9E8&height=70&text=SKILLS%20INDEX&fontSize=28&fontColor=12343B&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=70&text=SKILLS%20INDEX&fontSize=28&fontColor=F8FAFC&fontAlignY=50" width="100%"/>
 
 </div>
 
@@ -256,7 +255,7 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=A900FF&height=70&text=ACHIEVEMENTS&fontSize=28&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=70&text=ACHIEVEMENTS&fontSize=28&fontColor=F8FAFC&fontAlignY=50" width="100%"/>
 
 </div>
 
@@ -268,10 +267,10 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🏅_EXCELLENCE-555555?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MULTI_STACK-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🏆_LEADERBOARD-555555?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TOP_CONTRIBUTOR-FFD700?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/🏅_EXCELLENCE-475569?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MULTI_STACK-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏆_LEADERBOARD-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TOP_CONTRIBUTOR-06B6D4?style=for-the-badge&logoColor=black"/>
 
 </div>
 
@@ -281,7 +280,7 @@ Currently exploring Cloud Computing, DevOps, Microservices, and AI-powered softw
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9E8&height=70&text=PROJECTS%20GALLERY&fontSize=28&fontColor=12343B&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=70&text=PROJECTS%20GALLERY&fontSize=28&fontColor=F8FAFC&fontAlignY=50" width="100%"/>
 
 </div>
 
@@ -422,7 +421,7 @@ PHP-based fraud detection and investigation system with risk scoring and alert m
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9E8&height=70&text=MORE%20PROJECTS&fontSize=28&fontColor=12343B&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=70&text=MORE%20PROJECTS&fontSize=28&fontColor=F8FAFC&fontAlignY=50" width="100%"/>
 
 </div>
 
@@ -495,7 +494,7 @@ Full-stack project combining React and ASP.NET Core.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=DC2626&height=70&text=🎓%20EDUCATION&fontSize=28&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=70&text=🎓%20EDUCATION&fontSize=28&fontColor=F8FAFC&fontAlignY=50" width="100%"/>
 
 </div>
 
@@ -523,7 +522,7 @@ Full-stack project combining React and ASP.NET Core.
 <br/>
 
 <img src="https://img.shields.io/badge/Computer%20Science-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Undergraduate-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Undergraduate-06B6D4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NSBM%20Green%20University-7C3AED?style=for-the-badge"/>
 
 </div>
@@ -539,7 +538,7 @@ Full-stack project combining React and ASP.NET Core.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6B579B&height=70&text=GITHUB%20ANALYTICS&fontSize=28&fontColor=FFFFFF&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=70&text=GITHUB%20ANALYTICS&fontSize=28&fontColor=F8FAFC&fontAlignY=50" width="100%"/>
 
 </div>
 
@@ -573,7 +572,7 @@ Full-stack project combining React and ASP.NET Core.
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PADSviduranga&theme=tokyonight&hide_border=true&background=191B2A&ring=6C9EFF&fire=9B7EDE&currStreakNum=FFFFFF&sideNums=6C9EFF&currStreakLabel=9B7EDE&sideLabels=6C9EFF&dates=2DD4BF" width="90%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PADSviduranga&theme=tokyonight&hide_border=true&background=0F172A&ring=2563EB&fire=7C3AED&currStreakNum=F8FAFC&sideNums=38BDF8&currStreakLabel=7C3AED&sideLabels=38BDF8&dates=06B6D4" width="90%"/>
 
 <br/><br/>
 
@@ -615,7 +614,7 @@ Full-stack project combining React and ASP.NET Core.
 
 <br/>
 
-<img src="https://ghchart.rshah.org/7C3AED/PADSviduranga" alt="GitHub Contribution Calendar" width="100%"/>
+<img src="https://ghchart.rshah.org/2563EB/PADSviduranga" alt="GitHub Contribution Calendar" width="100%"/>
 
 </div>
 
