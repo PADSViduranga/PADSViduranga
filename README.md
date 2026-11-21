@@ -40,35 +40,7 @@
 
 <img src="assets/toolkit.svg" width="100%" alt="Languages: Java, C#, Python, JavaScript, PHP, Dart, TypeScript. Frontend: React, Next.js, Flutter. Backend: Spring Boot, ASP.NET Core, Node.js. Data: MySQL, PostgreSQL, MongoDB, SQL Server, Firebase. Cloud: Git, Docker, AWS, Vercel."/>
 
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="25%">
-<sub><b>LANGUAGES</b></sub><br/><br/>
-<img src="https://skillicons.dev/icons?i=java,cs,python,js,ts,php,html,css&perline=4&theme=dark"/>
-</td>
-<td align="center" width="25%">
-<sub><b>FRAMEWORKS</b></sub><br/><br/>
-<img src="https://skillicons.dev/icons?i=spring,dotnet,react,nextjs,nodejs,flutter&perline=3&theme=dark"/>
-</td>
-<td align="center" width="25%">
-<sub><b>DATABASES</b></sub><br/><br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase&perline=2&theme=dark"/>
-</td>
-<td align="center" width="25%">
-<sub><b>TOOLS &amp; CLOUD</b></sub><br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,vercel&perline=3&theme=dark"/>
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/REST%20API-ff3d8b?style=for-the-badge&labelColor=1b0712"/>
-<img src="https://img.shields.io/badge/ENTERPRISE%20IT-ff3d8b?style=for-the-badge&labelColor=1b0712"/>
-
-</div>
+<img src="assets/skills.svg" width="100%" alt="Skills: Java, C#, Python, JavaScript, TypeScript, PHP, HTML5, CSS, Spring Boot, .NET, React, Next.js, Node.js, Flutter, MySQL, PostgreSQL, MongoDB, Firebase, Git, GitHub, VS Code, Docker, AWS, Vercel, REST API, Enterprise IT"/>
 
 <br/><br/>
 
